@@ -1,0 +1,19 @@
+.genre-filter {
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+}
+
+.genre-filter button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  background-color: #f2f2f2;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.abc{
+  background-color: grey;
+  margin-left: 20%;
+  margin-right: 20%;
+}
